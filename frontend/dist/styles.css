@@ -1,0 +1,10 @@
+.overTable {
+    height: 400px;
+    overflow: auto;
+}
+
+.thSticky {
+    background-color: slategray;
+    position: sticky !important;
+    top: 0;
+}
